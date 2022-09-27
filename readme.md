@@ -2,6 +2,5 @@
 Compilado de exercícios resolvidos em Python para praticar.
 
 # Indice
-<!--ts-->
-* [Lista de exercícios Python Brasil](#Lista-de-Exercicios-Python-Brasil)
-<!--te-->
+
+* [Lista de exercícios Python Brasil](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/tree/main/Lista-de-Exercicios-Python-Brasil)
