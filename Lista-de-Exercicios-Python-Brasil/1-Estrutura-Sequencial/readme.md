@@ -4,5 +4,7 @@
 Faça um Programa que mostre a mensagem "Alo mundo" na tela.Faça um Programa que mostre a mensagem "Alo mundo" na tela.  
 * [Exercício 2](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio2.py)  
 Faça um Programa que peça um número e então mostre a mensagem O número informado foi [ número ].
-* [Exercício 2](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio3.py)  
+* [Exercício 3](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio3.py)  
 Faça um Programa que peça dois números e imprima a soma.
+* [Exercício 4](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio4.py)  
+Faça um Programa que peça as 4 notas bimestrais e mostre a média.
