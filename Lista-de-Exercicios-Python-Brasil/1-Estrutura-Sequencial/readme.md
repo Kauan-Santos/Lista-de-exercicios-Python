@@ -8,3 +8,5 @@ Faça um Programa que peça um número e então mostre a mensagem O número info
 Faça um Programa que peça dois números e imprima a soma.
 * [Exercício 4](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio4.py)  
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+* [Exercício 5](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio5.py)  
+Faça um Programa que converta metros para centímetros.
