@@ -10,3 +10,7 @@ Faça um Programa que peça dois números e imprima a soma.
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 * [Exercício 5](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio5.py)  
 Faça um Programa que converta metros para centímetros.
+* [Exercício 6](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio6.py)  
+Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+* [Exercício 7](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio7.py)  
+Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
