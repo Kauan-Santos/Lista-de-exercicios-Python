@@ -18,3 +18,5 @@ Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro 
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 * [Exercício 9](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio9.py)  
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
+* [Exercício 10](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio10.py)  
+Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
