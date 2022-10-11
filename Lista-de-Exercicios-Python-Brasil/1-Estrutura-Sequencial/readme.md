@@ -20,3 +20,8 @@ Faça um Programa que pergunte quanto você ganha por hora e o número de horas 
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 * [Exercício 10](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio10.py)  
 Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+* [Exercício 11](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio11.py)  
+Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+A - O produto do dobro do primeiro com metade do segundo.  
+B - A soma do triplo do primeiro com o terceiro.  
+C - O terceiro elevado ao cubo.  
