@@ -25,3 +25,5 @@ Faça um Programa que peça 2 números inteiros e um número real. Calcule e mos
 A - O produto do dobro do primeiro com metade do segundo.  
 B - A soma do triplo do primeiro com o terceiro.  
 C - O terceiro elevado ao cubo.  
+* [Exercício 12](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio12.py)  
+Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
