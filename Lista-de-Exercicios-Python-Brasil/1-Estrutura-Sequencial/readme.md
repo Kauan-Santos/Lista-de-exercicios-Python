@@ -27,3 +27,7 @@ B - A soma do triplo do primeiro com o terceiro.
 C - O terceiro elevado ao cubo.  
 * [Exercício 12](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio12.py)  
 Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58  
+* [Exercício 13](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio13.py)  
+Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:  
+a. Para homens: (72.7*h) - 58  
+b. Para mulheres: (62.1*h) - 44.7  
