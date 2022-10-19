@@ -1,6 +1,9 @@
 # Lista-de-exercicios-Python
-Compilado de exercícios resolvidos em Python para praticar.
+Compilado da resolução dos exercícios da python Brasil  
 
-# Indice
+[Site Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 
-* [Lista de exercícios Python Brasil](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/tree/main/Lista-de-Exercicios-Python-Brasil)
+
+## Indice
+
+[Lista de exercícios Python Brasil](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/tree/main/Lista-de-Exercicios-Python-Brasil)
