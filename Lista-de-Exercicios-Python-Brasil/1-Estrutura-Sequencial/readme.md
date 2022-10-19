@@ -31,3 +31,5 @@ Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que ca
 Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:  
 a. Para homens: (72.7*h) - 58  
 b. Para mulheres: (62.1*h) - 44.7  
+* [Exercício 14](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio14.py)  
+João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
