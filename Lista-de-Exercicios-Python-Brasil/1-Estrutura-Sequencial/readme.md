@@ -40,8 +40,11 @@ b. quanto pagou ao INSS.
 c. quanto pagou ao sindicato.  
 d. o salário líquido.  
 e. calcule os descontos e o salário líquido, conforme a tabela abaixo:  
->        + Salário Bruto : R$  
->        - IR (11%) : R$  
->        - INSS (8%) : R$  
->        - Sindicato ( 5%) : R$  
->        = Salário Liquido : R$
+
+        + Salário Bruto : R$  
+        - IR (11%) : R$  
+        - INSS (8%) : R$  
+        - Sindicato ( 5%) : R$  
+        = Salário Liquido : R$  
+* [Exercício 16](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/1-Estrutura-Sequencial/Exercicio16.py)  
+Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.  
