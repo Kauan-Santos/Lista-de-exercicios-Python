@@ -17,7 +17,9 @@ Faça um programa para a leitura de duas notas parciais de um aluno. O programa 
 Faça um Programa que leia três números e mostre o maior deles.  
 * [Exercício 07](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio07.py)  
 Faça um Programa que leia três números e mostre o maior e o menor deles.  
-* [Exercício 08](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio08.py) 
+* [Exercício 08](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio08.py)  
 Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.  
-* [Exercício 09](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio09.py) 
+* [Exercício 09](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio09.py)  
 Faça um Programa que leia três números e mostre-os em ordem decrescente.  
+* [Exercício 10](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/Exercicio10.py)  
+Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.  
