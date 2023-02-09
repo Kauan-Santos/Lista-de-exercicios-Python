@@ -54,3 +54,10 @@ Faça um programa que lê as duas notas parciais obtidas por um aluno numa disci
     Entre 4.0 e zero / E
 
     O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.  
+* [Exercício 15](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/exercicio_15.py)  
+Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.  
+Dicas:  
+>* Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;  
+>* Triângulo Equilátero: três lados iguais;  
+>* Triângulo Isósceles: quaisquer dois lados iguais;  
+>* Triângulo Escaleno: três lados diferentes;  
