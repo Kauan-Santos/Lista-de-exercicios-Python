@@ -67,3 +67,5 @@ Faça um programa que calcule as raízes de uma equação do segundo grau, na fo
 >* Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;
 >* Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;
 >* Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;  
+* [Exercício 17](https://github.com/Kauan-Santos/Lista-de-exercicios-Python/blob/main/Lista-de-Exercicios-Python-Brasil/2-Estrutura-de-Decisao/exercicio_17.py)  
+Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.  
